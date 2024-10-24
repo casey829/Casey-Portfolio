@@ -24,8 +24,8 @@ function NavBar() {
           <div className="flex items-center justify-between w-full md:w-auto">
             <a href="/" className="flex-shrink-0">
               <img
-                src=""
-                className="h-40 w-auto ml-10 lg:h-48"
+                src="Logo KC.png"
+                className="h-24 w-auto ml-10 "
                 alt="logo"
               />
             </a>
@@ -89,7 +89,7 @@ function NavBar() {
                 </HashLink>
               ))}
               <a
-                href="/resume.pdf" // Update this path to your actual resume file
+                href="/My Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:bg-red-700 block px-3 py-2 rounded-md text-base font-medium"
