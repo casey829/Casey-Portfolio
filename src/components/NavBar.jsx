@@ -63,7 +63,7 @@ function NavBar() {
               </HashLink>
             ))}
             <a
-              href="/resume.pdf" // Update this path to your actual resume file
+              href="/My Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-black border-2 border-black  hover:bg-cyan-800 hover:text-white px-4 py-2 rounded-md text-3xl font-medium transition-colors duration-300"

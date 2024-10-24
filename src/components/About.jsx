@@ -18,7 +18,7 @@ function About() {
                     </div>
                     <div className="flex justify-center">
                         <img
-                            src="portfolio.webp"
+                            src="photo.jpg"
                             alt="a portfolio photo"
                             className="rounded-lg shadow-xl max-w-md w-full object-cover h-auto"
                         />
