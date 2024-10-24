@@ -12,8 +12,8 @@ function Work() {
             technologies: ["Javascript", "React", "TailwindCss"]
         },
         {
-            title: "Project Two",
-            description: "Description of your second project highlighting key features.",
+            title: "Under Construction",
+            description: "Under Construction",
             image: "/project2.jpg",
             githubLink: "https://github.com/yourusername/project2",
             liveLink: "https://www.pannjuhardware.co.ke/",
