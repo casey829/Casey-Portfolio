@@ -17,7 +17,7 @@ function Experience() {
     return (
         <div id="experience" className="min-h-screen bg-[#DDD5CE] flex flex-col items-center justify-start pt-20">
             <div className="max-w-4xl mx-auto px-8 md:px-24">
-                <h1 className="text-5xl md:text-6xl font-bold text-center mb-4">Experience</h1>
+                <h1 className="text-4xl md:text-4xl font-bold text-center mb-4">Experience</h1>
                 
                 <div className="w-32 h-1 bg-black mx-auto mb-12"></div>
                 

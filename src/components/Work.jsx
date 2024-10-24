@@ -25,7 +25,7 @@ function Work() {
     return (
         <div id="work" className="min-h-screen bg-[#DDD5CE] pt-20 px-8 md:px-24">
             <div className="max-w-6xl mx-auto">
-                <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-4">
+                <h1 className="text-3xl md:text-4xl lg:text-4xl font-bold text-center mb-4">
                     Digital Storyteller: My Work in Building Intuitive and Scalable Web Solutions
                 </h1>
                 
