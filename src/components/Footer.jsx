@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer() {
    return (
-    <div className="text-center">
+    <div className="py-8 mt-auto text-center text-black">
     <footer>
         <p>
         &copy; {new Date().getFullYear()}. All rights reserved.
