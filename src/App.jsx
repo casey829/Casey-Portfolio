@@ -2,10 +2,10 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import About from './components/About';
+import Experience from './components/Experience';
 
 // Placeholder components for other routes
 const Home = () => <div>Home Page</div>;
-const Experience = () => <div>Experience Page</div>;
 const Work = () => <div>Work Page</div>;
 const Contact = () => <div>Contact Page</div>;
 
@@ -19,10 +19,10 @@ function App() {
                         <Route path="/" element={
                             <div>
                                 <About /> {/* About section will be shown on the home page */}
+                                <Experience />
                                 {/* Add other sections here as they're developed */}
                             </div>
                         } />
-                        <Route path="/experience" element={<Experience />} />
                         <Route path="/work" element={<Work />} />
                         <Route path="/contact" element={<Contact />} />
                     </Routes>
