@@ -24,9 +24,9 @@ function Contact() {
                 <a href="https://www.linkedin.com/in/casey-mwangi-802006214/" className="text-3xl text-gray-700 hover:text-blue-600" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-linkedin"></i>
                 </a>
-                <a className="text-2xl text-gray-700 hover:text-blue-600" >
-                    
-                    <i className="fa-solid fa-phone text-lg">:+254757473128</i>
+                <a href="https://wa.me/254757473128" className="text-2xl text-gray-700 hover:text-green-600 transition-colors" target="_blank" rel="noopener noreferrer">
+                      <i className="fab fa-whatsapp"></i>
+               <span className="text-lg ml-2">+254787278749</span>
                 </a>
             </div>
             
