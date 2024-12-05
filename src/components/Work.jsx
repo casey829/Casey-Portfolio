@@ -12,14 +12,14 @@ function Work() {
             technologies: ["Javascript", "React", "TailwindCss"]
         },
         {
-            title: "Under Construction",
-            description: "Under Construction",
-            image: "/project2.jpg",
-            githubLink: "https://github.com/yourusername/project2",
-            liveLink: "https://www.pannjuhardware.co.ke/",
-            technologies: ["Python", "Flask", "PostgreSQL"]
+            title: "VirgoHoldings",
+            description: "Web App for Renovation, Partitioning, Interiors, & Construction",
+            image: "/virgoholding.png",
+            githubLink: "https://github.com/casey829/Tiffany-s",
+            liveLink: "https://virgoholdings-dpizc6xqp-caseys-projects-d6b67924.vercel.app/",
+            technologies: ["React", "Javascript", "TailwindCss"]
         },
-        // Add more projects as needed
+        // Add more projects
     ];
 
     return (
