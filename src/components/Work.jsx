@@ -14,7 +14,7 @@ function Work() {
         {
             title: "VirgoHoldings",
             description: "Web App for Renovation, Partitioning, Interiors, & Construction",
-            image: "/virgoholding.png",
+            image: "/images/virgoholdings.png",
             githubLink: "https://github.com/casey829/Tiffany-s",
             liveLink: "https://virgoholdings-dpizc6xqp-caseys-projects-d6b67924.vercel.app/",
             technologies: ["React", "Javascript", "TailwindCss"]
