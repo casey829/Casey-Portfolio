@@ -20,6 +20,15 @@ function Work() {
             technologies: ["React", "Javascript", "TailwindCss"]
         },
         // Add more projects
+        {
+          title:"Tflix",
+          description:"A modern React application for searching and discovering movies, featuring trending movies and real-time search functionality.",
+          image:"/images/Tflix.png",
+          githubLink:"https://github.com/casey829/Tflix",
+          liveLink:"https://tcflix.netlify.app/",
+          technologies: ["React", "Javascript", "Tailwindcss", "Appwrite"]
+        },
+
     ];
 
     return (
