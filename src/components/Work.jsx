@@ -28,6 +28,16 @@ function Work() {
           liveLink:"https://tcflix.netlify.app/",
           technologies: ["React", "Javascript", "Tailwindcss", "Appwrite"]
         },
+        {
+            title:"RealEstate",
+            description:"A sleek React-powered property hub for instantly discovering homes, rentals, land and household items with real-time search—all in one place! 🏡🔍",
+            image:"/images/realestate.png",
+            githubLink:"https://github.com/casey829/Real-estate",
+            liveLink:"https://real-estate-livid-ten.vercel.app/",
+            technologies: ["React", "Javascript", "Tailwindcss"]
+
+
+        }
 
     ];
 
